@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: skyblue;
+}
+.title {
+  color: purple;
+}
+
+h1 {
+        text-align: center;
+}
+.contacts {
+    border: 1px solid black;
+}
+a {
+    text-decoration: none;
+    color: white;
+    margin: 35px;
+}
+nav {
+    background-color:seagreen;
+}
+.meow {
+    background-color:palegreen;
+}
+.discount {
+    color: blue;
+}
